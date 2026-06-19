@@ -16,3 +16,5 @@ offset_left = -200.0
 offset_top = -150.0
 grow_horizontal = 0
 grow_vertical = 0
+
+[node name="SolarSystem" type="Node" parent="." unique_id=1210072375]
