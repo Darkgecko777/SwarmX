@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://k2figgewidgd"]
+
+[ext_resource type="Script" uid="uid://dclppwdpdh3eb" path="res://scripts/stellar_body.gd" id="1_u4sed"]
+
+[node name="StellarBody" type="Node2D" unique_id=1208309305]
+script = ExtResource("1_u4sed")
+
+[node name="Area2D" type="Area2D" parent="." unique_id=1119182320]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=1880197173]

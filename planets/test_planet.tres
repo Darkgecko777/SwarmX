@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="PlanetData" format=3 uid="uid://db6rmpeiqlalg"]
+
+[ext_resource type="Script" uid="uid://chwxbdc3u6ybj" path="res://scripts/planet_data.gd" id="1_buu38"]
+
+[resource]
+script = ExtResource("1_buu38")
+metadata/_custom_type_script = "uid://chwxbdc3u6ybj"
